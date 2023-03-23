@@ -2,6 +2,20 @@
   text-align: center;
 }
 
+.contactCard{
+  box-shadow: 3px 4px 5px 6px rgba(0, 0, 0, 0.24);
+
+  width: 500px;
+  border-radius: 10px;
+  margin: 21px;
+  padding: 10px;
+}
+
+.contactCard:hover{
+  border: 1px solid #88d7ff31;
+  margin: 20px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
